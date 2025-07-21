@@ -19,18 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Form1.cs",
               "RelativeDocumentMoniker": "sshServer\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Form1.cs [Design]",
-              "RelativeToolTip": "sshServer\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sshServer\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T03:56:45.026Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

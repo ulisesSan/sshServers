@@ -1,0 +1,17 @@
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.exe
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.deps.json
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.runtimeconfig.json
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.dll
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.pdb
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.Form1.resources
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.csproj.GenerateResource.cache
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.AssemblyInfoInputs.cache
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.AssemblyInfo.cs
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.csproj.CoreCompileInputs.cache
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.sourcelink.json
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.dll
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\refint\sshServer.dll
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.pdb
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.genruntimeconfig.cache
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\ref\sshServer.dll
