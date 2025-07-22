@@ -3,7 +3,6 @@ C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debu
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.runtimeconfig.json
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.dll
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\sshServer.pdb
-C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.Form1.resources
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.csproj.GenerateResource.cache
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.AssemblyInfoInputs.cache
@@ -37,3 +36,6 @@ C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debu
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.csproj.AssemblyReference.cache
 C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.csproj.Up2Date
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.Forms.listServersForm.resources
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.PrincipalForm.resources
+C:\Users\Ulises Caceres\Documents\GitHub\sshServers\sshServer\sshServer\obj\Debug\net8.0-windows\sshServer.Forms.addServer.resources

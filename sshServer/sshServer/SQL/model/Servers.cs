@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace sshServer.SQL.model
 {
-    internal class Servers
+    public class Servers
     {
+        public int idServer { get; set; }
+        public string serverName { get; set; }
+        public string ipServer {  get; set; }
+        public string serverPassword { get; set; }
+        public string lastConnection { get; set; }
     }
 }
