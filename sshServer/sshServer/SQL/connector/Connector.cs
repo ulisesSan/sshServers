@@ -102,6 +102,45 @@ namespace sshServer.SQL.connector
 
             return servers;
         }
+
+        public static List<Servers> getServer(String id)
+        {
+            List<Servers> servers = new List<Servers>();
+
+            try
+            {
+                using (SQLiteConnection conexion = new SQLiteConnection(cadena))
+                {
+                    conexion.Open();
+                    string query = "select idServer, serverName, ipServer, serverPassword, lastConnection from servers where idServer = "+id+"";
+
+                    SQLiteCommand sQLiteCommand = new SQLiteCommand(query, conexion);
+                    sQLiteCommand.CommandType = System.Data.CommandType.Text;
+
+                    using (SQLiteDataReader reader = sQLiteCommand.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            servers.Add(new Servers()
+                            {
+                                idServer = int.Parse(reader["idServer"].ToString()),
+                                serverName = reader["serverName"].ToString(),
+                                ipServer = reader["ipServer"].ToString(),
+                                serverPassword = reader["serverPassword"].ToString(),
+                                lastConnection = reader["lastConnection"].ToString()
+                            });
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex);
+                MessageBox.Show(Constants.selectError);
+            }
+
+            return servers;
+        }
     }
 }
 

@@ -32,6 +32,7 @@
             button1 = new Button();
             dataServerTable = new DataGridView();
             btnUpdateTable = new Button();
+            btnAccess = new Button();
             ((System.ComponentModel.ISupportInitialize)dataServerTable).BeginInit();
             SuspendLayout();
             // 
@@ -56,11 +57,15 @@
             // 
             // dataServerTable
             // 
-            dataServerTable.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataServerTable.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             dataServerTable.Location = new Point(23, 81);
+            dataServerTable.MultiSelect = false;
             dataServerTable.Name = "dataServerTable";
+            dataServerTable.ReadOnly = true;
+            dataServerTable.RowHeadersWidthSizeMode = DataGridViewRowHeadersWidthSizeMode.AutoSizeToDisplayedHeaders;
             dataServerTable.Size = new Size(755, 272);
             dataServerTable.TabIndex = 2;
+            dataServerTable.CellContentClick += dataServerTable_CellContentClick;
             // 
             // btnUpdateTable
             // 
@@ -72,11 +77,22 @@
             btnUpdateTable.UseVisualStyleBackColor = true;
             btnUpdateTable.Click += btnUpdateTable_Click;
             // 
+            // btnAccess
+            // 
+            btnAccess.Location = new Point(178, 389);
+            btnAccess.Name = "btnAccess";
+            btnAccess.Size = new Size(183, 50);
+            btnAccess.TabIndex = 4;
+            btnAccess.Text = "Acceder al servidor";
+            btnAccess.UseVisualStyleBackColor = true;
+            btnAccess.Click += btnAccess_Click;
+            // 
             // listServersForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnAccess);
             Controls.Add(btnUpdateTable);
             Controls.Add(dataServerTable);
             Controls.Add(button1);
@@ -95,5 +111,6 @@
         private Button button1;
         private DataGridView dataServerTable;
         private Button btnUpdateTable;
+        private Button btnAccess;
     }
 }

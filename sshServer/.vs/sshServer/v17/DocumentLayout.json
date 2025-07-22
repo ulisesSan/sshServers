@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\forms\\addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\forms\\addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\forms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\forms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\sql\\connector\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\sql\\connector\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\services\\sshconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\services\\sshconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\forms\\listserversform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\forms\\listserversform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\forms\\listserversform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\sql\\connector\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\sql\\connector\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshserver\\forms\\listserversform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\forms\\listserversform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\sql\\model\\servers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\sql\\model\\servers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshserver\\forms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\forms\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\forms\\addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\forms\\addserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|solutionrelative:sshserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A6BC318-DE6B-4FAA-AA1F-7C3F147B835E}|sshServer\\sshServer.csproj|c:\\users\\ulises caceres\\documents\\github\\sshservers\\sshserver\\sshserver\\services\\encoderpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "SshConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Services\\SshConnector.cs",
+              "RelativeDocumentMoniker": "sshServer\\Services\\SshConnector.cs",
+              "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Services\\SshConnector.cs",
+              "RelativeToolTip": "sshServer\\Services\\SshConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:51:31.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\App.config",
               "RelativeDocumentMoniker": "sshServer\\App.config",
@@ -62,8 +75,7 @@
               "RelativeToolTip": "sshServer\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-21T22:17:03.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T22:17:03.859Z"
             },
             {
               "$type": "Document",
@@ -75,12 +87,11 @@
               "RelativeToolTip": "sshServer\\Services\\EncoderPassword.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:38:53.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T21:38:53.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "addServer.cs",
               "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\addServer.cs",
               "RelativeDocumentMoniker": "sshServer\\Forms\\addServer.cs",
@@ -88,20 +99,18 @@
               "RelativeToolTip": "sshServer\\Forms\\addServer.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:16:47.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T21:16:47.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PrincipalForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\PrincipalForm.cs",
               "RelativeDocumentMoniker": "sshServer\\Forms\\PrincipalForm.cs",
               "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\PrincipalForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "sshServer\\Forms\\PrincipalForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:03:54.119Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-21T21:03:54.119Z"
             },
             {
               "$type": "Document",
@@ -113,24 +122,23 @@
               "RelativeToolTip": "sshServer\\Forms\\PrincipalForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T21:01:21.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T21:01:21.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "listServersForm.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "listServersForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\listServersForm.cs",
               "RelativeDocumentMoniker": "sshServer\\Forms\\listServersForm.cs",
-              "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\listServersForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "sshServer\\Forms\\listServersForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\listServersForm.cs [Design]",
+              "RelativeToolTip": "sshServer\\Forms\\listServersForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T21:00:52.52Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Constants.cs",
               "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\utils\\Constants.cs",
               "RelativeDocumentMoniker": "sshServer\\utils\\Constants.cs",
@@ -138,18 +146,17 @@
               "RelativeToolTip": "sshServer\\utils\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T20:44:18.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T20:44:18.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "listServersForm.cs",
               "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\listServersForm.cs",
               "RelativeDocumentMoniker": "sshServer\\Forms\\listServersForm.cs",
               "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\Forms\\listServersForm.cs",
               "RelativeToolTip": "sshServer\\Forms\\listServersForm.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T21:46:53.543Z",
               "EditorCaption": ""
@@ -162,23 +169,9 @@
               "RelativeDocumentMoniker": "sshServer\\SQL\\connector\\Connector.cs",
               "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\SQL\\connector\\Connector.cs",
               "RelativeToolTip": "sshServer\\SQL\\connector\\Connector.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwHIAAACOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T20:19:50.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Servers.cs",
-              "DocumentMoniker": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\SQL\\model\\Servers.cs",
-              "RelativeDocumentMoniker": "sshServer\\SQL\\model\\Servers.cs",
-              "ToolTip": "C:\\Users\\Ulises Caceres\\Documents\\GitHub\\sshServers\\sshServer\\sshServer\\SQL\\model\\Servers.cs",
-              "RelativeToolTip": "sshServer\\SQL\\model\\Servers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T20:17:13.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T20:19:50.496Z"
             }
           ]
         }
